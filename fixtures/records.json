@@ -1,14 +1,17 @@
 [
-  {
-    "record_id": "line-1",
-    "source": "vendor-list",
-    "revision": 1,
-    "text": "轴套 A17，铝合金，内径 12 毫米，数量 40 件。"
-  },
-  {
-    "record_id": "line-2",
-    "source": "vendor-list",
-    "revision": 1,
-    "text": "轴套 A17，黄铜，内径 12 mm，数量 10 件。"
-  }
+  [
+    "order-label",
+    "vendor-list",
+    "一套配件：轴套 A17 两盒，盒内各五只，另加两只黄铜备件。"
+  ],
+  [
+    "packing-71",
+    "warehouse-slip",
+    "订单 PO-18，外箱一号只有铝合金 A17。单独纸袋装两只黄铜备件，归订单第二行。"
+  ],
+  [
+    "declaration-note",
+    "customs-desk",
+    "昨天下午先提交了一盒的申报，第二盒仍是草稿。"
+  ]
 ]

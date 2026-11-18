@@ -1,0 +1,31 @@
+{
+  "purchase_lines": [
+    {
+      "line": "PO-18/1",
+      "quantity": 10
+    },
+    {
+      "line": "PO-18/2",
+      "quantity": 2
+    }
+  ],
+  "packaging": [
+    {
+      "line": "PO-18/1",
+      "unit": "盒",
+      "units_per_pack": 5
+    }
+  ],
+  "declarations": [
+    {
+      "line": "PO-18/1",
+      "quantity": 5,
+      "submitted": true
+    },
+    {
+      "line": "PO-18/1",
+      "quantity": 5,
+      "submitted": false
+    }
+  ]
+}

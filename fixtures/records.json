@@ -1,17 +1,20 @@
 [
-  [
-    "order-label",
-    "vendor-list",
-    "一套配件：轴套 A17 两盒，盒内各五只，另加两只黄铜备件。"
-  ],
-  [
-    "packing-71",
-    "warehouse-slip",
-    "订单 PO-18，外箱一号只有铝合金 A17。单独纸袋装两只黄铜备件，归订单第二行。"
-  ],
-  [
-    "declaration-note",
-    "customs-desk",
-    "昨天下午先提交了一盒的申报，第二盒仍是草稿。"
-  ]
+  {
+    "record_id": "order-label",
+    "source": "vendor-list",
+    "revision": 1,
+    "text": "一套配件：轴套 A17 两盒，盒内各五只，另加两只黄铜备件。"
+  },
+  {
+    "record_id": "packing-71",
+    "source": "warehouse-slip",
+    "revision": 1,
+    "text": "订单 PO-18，外箱一号只有铝合金 A17。单独纸袋装两只黄铜备件，归订单第二行。"
+  },
+  {
+    "record_id": "declaration-note",
+    "source": "customs-desk",
+    "revision": 1,
+    "text": "昨天下午先提交了一盒的申报，第二盒仍是草稿。"
+  }
 ]

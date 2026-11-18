@@ -1,0 +1,45 @@
+{
+  "catalog": [
+    {
+      "line": "PO-18/1",
+      "names": [
+        "轴套",
+        "轴衬"
+      ],
+      "material": "钢",
+      "size": "A17",
+      "units": {
+        "只": 1,
+        "盒": 5
+      }
+    }
+  ],
+  "slips": [
+    {
+      "id": "PK-9",
+      "line": "PO-18/1"
+    }
+  ],
+  "draft": [
+    {
+      "id": "D-1",
+      "line": "PO-18/1",
+      "designation": "轴衬",
+      "material": "钢",
+      "size": "A17",
+      "count": 1,
+      "unit": "盒",
+      "packing_slip": "PK-9"
+    },
+    {
+      "id": "D-2",
+      "line": "PO-18/1",
+      "designation": "轴套",
+      "material": "钢",
+      "size": "A17",
+      "count": 1,
+      "unit": "只",
+      "packing_slip": "PK-9"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "record_id": "line-1",
+    "source": "vendor-list",
+    "revision": 1,
+    "text": "轴套 A17，铝合金，内径 12 毫米，数量 40 件。"
+  },
+  {
+    "record_id": "line-2",
+    "source": "vendor-list",
+    "revision": 1,
+    "text": "轴套 A17，黄铜，内径 12 mm，数量 10 件。"
+  }
+]

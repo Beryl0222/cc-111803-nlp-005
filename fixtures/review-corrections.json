@@ -1,0 +1,68 @@
+{
+  "catalog": [
+    {
+      "line": "PO-18/1",
+      "names": [
+        "轴套",
+        "轴衬"
+      ],
+      "material": "钢",
+      "size": "A17",
+      "units": {
+        "只": 1,
+        "盒": 5
+      }
+    },
+    {
+      "line": "PO-18/2",
+      "names": [
+        "备件",
+        "黄铜备件"
+      ],
+      "material": "黄铜",
+      "size": "A17",
+      "units": {
+        "只": 1
+      }
+    }
+  ],
+  "documents": [
+    {
+      "id": "INS-7",
+      "kind": "开箱资料",
+      "batch": "B-1",
+      "text": "钢轴套 A17 一盒五只，另一盒钢轴套三只及黄铜备件 A17 两只"
+    }
+  ],
+  "draft": [
+    {
+      "id": "D-1",
+      "line": "PO-18/1",
+      "designation": "轴套",
+      "material": "钢",
+      "size": "A17",
+      "count": 1,
+      "unit": "盒",
+      "packing_slip": "INS-7"
+    },
+    {
+      "id": "D-2",
+      "line": "PO-18/1",
+      "designation": "轴套",
+      "material": "钢",
+      "size": "A17",
+      "count": 1,
+      "unit": "只",
+      "packing_slip": "INS-7"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "C-1",
+      "kind": "冲减",
+      "target": "DEC-1",
+      "quantity": 2,
+      "note": "开箱短少两只"
+    }
+  ]
+}

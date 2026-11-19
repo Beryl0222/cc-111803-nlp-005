@@ -18,12 +18,16 @@
   ],
   "declarations": [
     {
+      "id": "DEC-1",
       "line": "PO-18/1",
+      "designation": "轴套",
       "quantity": 5,
       "submitted": true
     },
     {
+      "id": "DEC-2",
       "line": "PO-18/1",
+      "designation": "轴套",
       "quantity": 5,
       "submitted": false
     }
